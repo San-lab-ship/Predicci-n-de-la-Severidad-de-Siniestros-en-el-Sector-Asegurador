@@ -1,5 +1,3 @@
-# Predicci-n-de-la-Severidad-de-Siniestros-en-el-Sector-Asegurador
-Proyecto de Ciencia de Datos para predecir el impacto económico de los siniestros (claims) utilizando modelos de regresión y análisis actuarial.
 # 🛡️ Predicción de la Severidad de Siniestros en el Sector Asegurador
 
 ### Proyecto de Ciencia de Datos para predecir el impacto económico de los siniestros (claims) utilizando modelos de regresión y análisis actuarial.
