@@ -107,12 +107,7 @@ El sector asegurador enfrenta desafíos críticos:
               ▼
     Dashboard de Control (Streamlit)
 
----
-## 🧰 Tecnologías utilizadas
 
-* **Lenguaje:** Python
-* **Modelado:** Pandas, Scikit-learn, XGBoost
-* **Estadística:** Statsmodels
 * **Visualización:** Plotly, Seaborn, Streamlit
 * **Entorno:** Jupyter Notebook, Git
 
